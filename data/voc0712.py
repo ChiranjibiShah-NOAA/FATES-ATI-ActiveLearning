@@ -167,7 +167,7 @@ VOC_CLASSES = (  # always index 0
 )
 
 
-VOC_ROOT = osp.join("/content/drive/MyDrive/Google_colab/AL-MDN/main_data")
+VOC_ROOT = osp.join("/content/FATES-ATI-ActiveLearnig/main_data")
 
 
 class VOCAnnotationTransform(object):
