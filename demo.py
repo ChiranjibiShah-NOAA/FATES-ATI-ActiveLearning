@@ -95,8 +95,8 @@ for i in range(detections.size(1)):
         display_txt = '%s: %.2f'%(label_name, score)
         pt = (detections[0,i,j,1:5]*scale).cpu().numpy()
         coords = (pt[0], pt[1]), pt[2]-pt[0]+1, pt[3]-pt[1]+1
-        print(score)
-        print(pt[0], pt[1], pt[2], pt[3])
+        #print(pt[0], pt[1], pt[2], pt[3])        
+        print(f"Class: {label_name}, Confidence: {score:.2f}")
         print('----')
         color = colors[i]
         currentAxis.add_patch(plt.Rectangle(*coords, fill=False, edgecolor=color, linewidth=2))
