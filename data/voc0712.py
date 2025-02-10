@@ -167,7 +167,7 @@ VOC_CLASSES = (  # always index 0
 )
 
 
-VOC_ROOT = osp.join("/content/FATES-ATI-ActiveLearnig/main_data")
+VOC_ROOT = osp.join("/content/FATES-ATI-ActiveLearning/main_data")
 
 
 class VOCAnnotationTransform(object):
