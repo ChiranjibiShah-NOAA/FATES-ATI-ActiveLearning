@@ -27,9 +27,9 @@ voc300_active = {
     'aspect_ratios': [[2], [2, 3], [2, 3], [2, 3], [2], [2]],
     'variance': [0.1, 0.2],
     'clip': True,
-    'num_initial_labeled_set': 100, #2000
-    'num_total_images': 138 ,# 16480, #25487,
-    'acquisition_budget': 10,
+    'num_initial_labeled_set': 150, #2000
+    'num_total_images': 240 ,# 16480, #25487,
+    'acquisition_budget': 20,
     'num_cycles': 3,
     'name': 'VOC',
 }
