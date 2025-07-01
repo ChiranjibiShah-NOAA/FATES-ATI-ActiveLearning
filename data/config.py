@@ -29,8 +29,8 @@ voc300_active = {
     'clip': True,
     'num_initial_labeled_set': 90, #2000
     'num_total_images': 145 ,# 16480, #25487,
-    'acquisition_budget': 20,
-    'num_cycles': 2,
+    'acquisition_budget': 30,
+    'num_cycles': 1,
     'name': 'VOC',
 }
 
