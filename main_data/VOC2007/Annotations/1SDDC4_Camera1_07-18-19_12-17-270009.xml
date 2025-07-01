@@ -1,0 +1,34 @@
+<annotation>
+  <filename>1SDDC4_Camera1_07-18-19_12-17-270009.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>SERIOLAFASCIATA-170113103</name>
+    <bndbox>
+      <xmin>1035</xmin>
+      <ymin>397</ymin>
+      <xmax>1325</xmax>
+      <ymax>520</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CALAMUSPRORIDENS-170210605</name>
+    <bndbox>
+      <xmin>1536</xmin>
+      <ymin>682</ymin>
+      <xmax>1661</xmax>
+      <ymax>810</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>RHOMBOPLITESAURORUBENS-170152001</name>
+    <bndbox>
+      <xmin>1759</xmin>
+      <ymin>158</ymin>
+      <xmax>1825</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+</annotation>

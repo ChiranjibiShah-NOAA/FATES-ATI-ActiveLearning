@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SDC4_Camera1_07-17-19_18-32-390007.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CAULOLATILUSCYANOPS-170070101</name>
+    <bndbox>
+      <xmin>667</xmin>
+      <ymin>737</ymin>
+      <xmax>889</xmax>
+      <ymax>817</ymax>
+    </bndbox>
+  </object>
+</annotation>

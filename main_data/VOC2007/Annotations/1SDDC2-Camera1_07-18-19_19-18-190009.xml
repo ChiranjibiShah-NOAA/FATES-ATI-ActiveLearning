@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SDDC2-Camera1_07-18-19_19-18-190009.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>LUTJANUSGRISEUS-170151109</name>
+    <bndbox>
+      <xmin>522</xmin>
+      <ymin>663</ymin>
+      <xmax>772</xmax>
+      <ymax>750</ymax>
+    </bndbox>
+  </object>
+</annotation>

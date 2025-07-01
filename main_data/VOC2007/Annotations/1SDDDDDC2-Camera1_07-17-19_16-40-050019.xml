@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SDDDDDC2-Camera1_07-17-19_16-40-050019.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIPOMOIDES-170151800</name>
+    <bndbox>
+      <xmin>620</xmin>
+      <ymin>136</ymin>
+      <xmax>770</xmax>
+      <ymax>299</ymax>
+    </bndbox>
+  </object>
+</annotation>

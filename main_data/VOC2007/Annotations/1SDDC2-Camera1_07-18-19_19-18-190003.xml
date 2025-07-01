@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDC2-Camera1_07-18-19_19-18-190003.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>LUTJANUSGRISEUS-170151109</name>
+    <bndbox>
+      <xmin>1359</xmin>
+      <ymin>724</ymin>
+      <xmax>1652</xmax>
+      <ymax>839</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PAGRUSPAGRUS-170212302</name>
+    <bndbox>
+      <xmin>249</xmin>
+      <ymin>606</ymin>
+      <xmax>344</xmax>
+      <ymax>690</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1TSC2-Camera3_07-18-19_19-18-190019.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>182</xmin>
+      <ymin>521</ymin>
+      <xmax>450</xmax>
+      <ymax>690</ymax>
+    </bndbox>
+  </object>
+</annotation>

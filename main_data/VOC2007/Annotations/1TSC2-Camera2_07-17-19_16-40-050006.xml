@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1TSC2-Camera2_07-17-19_16-40-050006.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CAULOLATILUSCYANOPS-170070101</name>
+    <bndbox>
+      <xmin>615</xmin>
+      <ymin>539</ymin>
+      <xmax>669</xmax>
+      <ymax>583</ymax>
+    </bndbox>
+  </object>
+</annotation>

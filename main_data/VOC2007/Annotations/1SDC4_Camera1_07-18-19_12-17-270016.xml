@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDC4_Camera1_07-18-19_12-17-270016.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CALAMUSPRORIDENS-170210605</name>
+    <bndbox>
+      <xmin>501</xmin>
+      <ymin>624</ymin>
+      <xmax>707</xmax>
+      <ymax>714</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>SERIOLAFASCIATA-170113103</name>
+    <bndbox>
+      <xmin>1053</xmin>
+      <ymin>463</ymin>
+      <xmax>1197</xmax>
+      <ymax>585</ymax>
+    </bndbox>
+  </object>
+</annotation>

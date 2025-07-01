@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDDC4_Camera2_07-19-19_15-26-090007.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>LUTJANUSGRISEUS-170151109</name>
+    <bndbox>
+      <xmin>700</xmin>
+      <ymin>527</ymin>
+      <xmax>994</xmax>
+      <ymax>665</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>MYCTEROPERCAPHENAX-170022105</name>
+    <bndbox>
+      <xmin>886</xmin>
+      <ymin>498</ymin>
+      <xmax>923</xmax>
+      <ymax>542</ymax>
+    </bndbox>
+  </object>
+</annotation>

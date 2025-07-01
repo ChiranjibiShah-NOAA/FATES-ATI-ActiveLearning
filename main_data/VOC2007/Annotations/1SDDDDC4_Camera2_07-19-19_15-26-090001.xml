@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDDDC4_Camera2_07-19-19_15-26-090001.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>HOLACANTHUSBERMUDENSIS-170290102</name>
+    <bndbox>
+      <xmin>1558</xmin>
+      <ymin>736</ymin>
+      <xmax>1759</xmax>
+      <ymax>945</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>SERRANUSANNULARIS-170024201</name>
+    <bndbox>
+      <xmin>425</xmin>
+      <ymin>941</ymin>
+      <xmax>511</xmax>
+      <ymax>984</ymax>
+    </bndbox>
+  </object>
+</annotation>

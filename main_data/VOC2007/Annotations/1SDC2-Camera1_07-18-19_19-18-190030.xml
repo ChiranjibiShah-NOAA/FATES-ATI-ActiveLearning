@@ -1,0 +1,34 @@
+<annotation>
+  <filename>1SDC2-Camera1_07-18-19_19-18-190030.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>700</xmin>
+      <ymin>567</ymin>
+      <xmax>788</xmax>
+      <ymax>607</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>710</xmin>
+      <ymin>543</ymin>
+      <xmax>790</xmax>
+      <ymax>588</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>237</xmin>
+      <ymin>493</ymin>
+      <xmax>378</xmax>
+      <ymax>594</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1TSC4_Camera2_07-17-19_18-32-390008.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIPOMOIDES-170151800</name>
+    <bndbox>
+      <xmin>1030</xmin>
+      <ymin>708</ymin>
+      <xmax>1187</xmax>
+      <ymax>780</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIPOMOIDES-170151800</name>
+    <bndbox>
+      <xmin>1318</xmin>
+      <ymin>695</ymin>
+      <xmax>1463</xmax>
+      <ymax>767</ymax>
+    </bndbox>
+  </object>
+</annotation>

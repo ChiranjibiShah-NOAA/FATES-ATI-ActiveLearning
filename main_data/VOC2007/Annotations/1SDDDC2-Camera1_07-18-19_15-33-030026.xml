@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDDC2-Camera1_07-18-19_15-33-030026.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIGENYSALTA-170050401</name>
+    <bndbox>
+      <xmin>265</xmin>
+      <ymin>671</ymin>
+      <xmax>339</xmax>
+      <ymax>725</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>EPINEPHELUSMORIO-170021211</name>
+    <bndbox>
+      <xmin>523</xmin>
+      <ymin>513</ymin>
+      <xmax>663</xmax>
+      <ymax>575</ymax>
+    </bndbox>
+  </object>
+</annotation>

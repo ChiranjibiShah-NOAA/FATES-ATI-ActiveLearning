@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SC4_Camera2_07-19-19_15-26-090005.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CHAETODONOCELLATUS-170260307</name>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>557</ymin>
+      <xmax>358</xmax>
+      <ymax>651</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>MYCTEROPERCAPHENAX-170022105</name>
+    <bndbox>
+      <xmin>942</xmin>
+      <ymin>493</ymin>
+      <xmax>991</xmax>
+      <ymax>560</ymax>
+    </bndbox>
+  </object>
+</annotation>

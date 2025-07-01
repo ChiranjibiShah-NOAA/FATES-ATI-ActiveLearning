@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1TSC2-Camera3_07-18-19_19-18-190011.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>433</xmin>
+      <ymin>536</ymin>
+      <xmax>711</xmax>
+      <ymax>694</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>1298</xmin>
+      <ymin>451</ymin>
+      <xmax>1798</xmax>
+      <ymax>706</ymax>
+    </bndbox>
+  </object>
+</annotation>

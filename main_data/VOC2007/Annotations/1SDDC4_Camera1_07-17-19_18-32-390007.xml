@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDC4_Camera1_07-17-19_18-32-390007.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIPOMOIDES-170151800</name>
+    <bndbox>
+      <xmin>1497</xmin>
+      <ymin>934</ymin>
+      <xmax>1798</xmax>
+      <ymax>1087</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CAULOLATILUSCYANOPS-170070101</name>
+    <bndbox>
+      <xmin>1138</xmin>
+      <ymin>658</ymin>
+      <xmax>1303</xmax>
+      <ymax>708</ymax>
+    </bndbox>
+  </object>
+</annotation>

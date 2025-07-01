@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SC4_Camera1_07-18-19_12-17-270003.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>SERIOLAFASCIATA-170113103</name>
+    <bndbox>
+      <xmin>1452</xmin>
+      <ymin>435</ymin>
+      <xmax>1712</xmax>
+      <ymax>574</ymax>
+    </bndbox>
+  </object>
+</annotation>

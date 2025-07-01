@@ -1,0 +1,34 @@
+<annotation>
+  <filename>1SC2-Camera1_07-18-19_15-33-030009.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>BALISTESCAPRISCUS-189030502</name>
+    <bndbox>
+      <xmin>605</xmin>
+      <ymin>465</ymin>
+      <xmax>753</xmax>
+      <ymax>548</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PAGRUSPAGRUS-170212302</name>
+    <bndbox>
+      <xmin>1582</xmin>
+      <ymin>538</ymin>
+      <xmax>1724</xmax>
+      <ymax>599</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIGENYSALTA-170050401</name>
+    <bndbox>
+      <xmin>302</xmin>
+      <ymin>677</ymin>
+      <xmax>344</xmax>
+      <ymax>717</ymax>
+    </bndbox>
+  </object>
+</annotation>

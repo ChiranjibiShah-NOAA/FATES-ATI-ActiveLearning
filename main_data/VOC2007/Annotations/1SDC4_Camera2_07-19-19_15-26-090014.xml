@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDC4_Camera2_07-19-19_15-26-090014.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>HOLACANTHUSBERMUDENSIS-170290102</name>
+    <bndbox>
+      <xmin>728</xmin>
+      <ymin>521</ymin>
+      <xmax>833</xmax>
+      <ymax>626</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>LUTJANUSGRISEUS-170151109</name>
+    <bndbox>
+      <xmin>685</xmin>
+      <ymin>516</ymin>
+      <xmax>969</xmax>
+      <ymax>617</ymax>
+    </bndbox>
+  </object>
+</annotation>

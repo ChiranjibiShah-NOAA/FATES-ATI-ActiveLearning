@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SC2-Camera1_07-18-19_19-18-190030.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>EPINEPHELUSMORIO-170021211</name>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>477</ymin>
+      <xmax>296</xmax>
+      <ymax>572</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PTEROIS-168011900</name>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>620</ymin>
+      <xmax>458</xmax>
+      <ymax>785</ymax>
+    </bndbox>
+  </object>
+</annotation>

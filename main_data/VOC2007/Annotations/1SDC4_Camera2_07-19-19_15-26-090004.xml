@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDC4_Camera2_07-19-19_15-26-090004.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>HOLACANTHUSBERMUDENSIS-170290102</name>
+    <bndbox>
+      <xmin>1306</xmin>
+      <ymin>630</ymin>
+      <xmax>1470</xmax>
+      <ymax>732</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>MYCTEROPERCAPHENAX-170022105</name>
+    <bndbox>
+      <xmin>840</xmin>
+      <ymin>515</ymin>
+      <xmax>889</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+</annotation>

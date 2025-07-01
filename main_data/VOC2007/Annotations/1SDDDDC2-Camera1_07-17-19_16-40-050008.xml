@@ -1,0 +1,25 @@
+<annotation>
+  <filename>1SDDDDC2-Camera1_07-17-19_16-40-050008.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>SYACIUM-183011000</name>
+    <bndbox>
+      <xmin>1141</xmin>
+      <ymin>699</ymin>
+      <xmax>1247</xmax>
+      <ymax>742</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>CAULOLATILUSCYANOPS-170070101</name>
+    <bndbox>
+      <xmin>823</xmin>
+      <ymin>692</ymin>
+      <xmax>1185</xmax>
+      <ymax>884</ymax>
+    </bndbox>
+  </object>
+</annotation>

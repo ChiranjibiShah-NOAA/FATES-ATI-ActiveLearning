@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SC4_Camera1_07-17-19_18-32-390003.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>PRISTIPOMOIDES-170151800</name>
+    <bndbox>
+      <xmin>315</xmin>
+      <ymin>693</ymin>
+      <xmax>461</xmax>
+      <ymax>752</ymax>
+    </bndbox>
+  </object>
+</annotation>

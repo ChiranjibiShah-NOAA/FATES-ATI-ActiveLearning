@@ -1,0 +1,16 @@
+<annotation>
+  <filename>1SC2-Camera1_07-17-19_16-40-050058.png</filename>
+  <folder>VOC2007</folder><source><database>Unknown</database></source><size>
+    <width>1920</width>
+    <height>1088</height>
+  </size>
+  <object>
+    <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><name>OPHICHTHUSPUNCTICEPS-143150402</name>
+    <bndbox>
+      <xmin>1150</xmin>
+      <ymin>983</ymin>
+      <xmax>1248</xmax>
+      <ymax>1088</ymax>
+    </bndbox>
+  </object>
+</annotation>
