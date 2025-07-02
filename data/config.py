@@ -18,7 +18,7 @@ MEANS = (104, 117, 123)
 voc300_active = {
     'num_classes': 145,
     'lr_steps': (300, 500),
-    'max_iter': 1500,
+    'max_iter': 1000,
     'feature_maps': [38, 19, 10, 5, 3, 1],
     'min_dim': 300,
     'steps': [8, 16, 32, 64, 100, 300],
@@ -27,10 +27,10 @@ voc300_active = {
     'aspect_ratios': [[2], [2, 3], [2, 3], [2, 3], [2], [2]],
     'variance': [0.1, 0.2],
     'clip': True,
-    'num_initial_labeled_set': 500, #2000
+    'num_initial_labeled_set': 700, #2000
     'num_total_images': 840 ,# 16480, #25487,
-    'acquisition_budget': 100,
-    'num_cycles': 1,
+    'acquisition_budget': 30,
+    'num_cycles': 2,
     'name': 'VOC',
 }
 
