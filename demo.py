@@ -48,11 +48,11 @@ net.load_state_dict(torch.load(args.trained_model))
 
 # here we specify year (07 or 12) and dataset ('test', 'val', 'train')
 if args.dataset == 'VOC':
-    testset = VOCDetection(args.voc_root, [('2007', 'trainval')], None, VOCAnnotationTransform())
+    testset = VOCDetection(args.voc_root, [('2007', 'test')], None, VOCAnnotationTransform())
 else:
     testset = COCODetection(args.coco_root, 'train2014', None, VOCAnnotationTransform())
 
-img_id = 51 #2385
+img_id = 0 #2385
 image = testset.pull_image(img_id)
 rgb_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 # View the sampled input image before transform
