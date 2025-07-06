@@ -18,7 +18,7 @@ MEANS = (104, 117, 123)
 voc300_active = {
     'num_classes': 145,
     'lr_steps': (300, 500),
-    'max_iter': 1000,
+    'max_iter': 10000,
     'feature_maps': [38, 19, 10, 5, 3, 1],
     'min_dim': 300,
     'steps': [8, 16, 32, 64, 100, 300],

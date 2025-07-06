@@ -269,9 +269,9 @@ def train(
             loc_loss += loss_l.data
             conf_loss += loss_c.data
 
-            #if (float(loss) > 100) or torch.isinf(loss) or torch.isnan(loss):
+            if (float(loss) > 100) or torch.isinf(loss) or torch.isnan(loss):
                 # if the net diverges, go back to point 0 and train from scratch
-                #break
+                break
 
             if iteration % 100 == 0:
                 print('timer: %.4f sec.' % (t1 - t0))
@@ -279,7 +279,7 @@ def train(
                 print('loss: %.4f , loss_c: %.4f , loss_l: %.4f , lr : %.4f\n' % (
                       loss.data, loss_c.data, loss_l.data, float(optimizer.param_groups[0]['lr'])))
 
-            if iteration != 0 and (iteration + 1) % 100 == 0:
+            if iteration != 0 and (iteration + 1) % 500 == 0:
                 print('Saving state, iter:', iteration)
                 torch.save(net.state_dict(), 'weights/ssd300_AL_' + cfg['name'] + '_id_' + str(args.id) +
                            '_num_labels_' + str(len(labeled_set)) + '_' + repr(iteration + 1) + '.pth')
@@ -305,7 +305,7 @@ def main():
     for i in range(cfg['num_cycles']):
         if cfg['name'] == 'VOC':
             # select the best weight
-            list_iter = ['300', '400']
+            list_iter = ['9000', '10000']
             list_weights = []
             for loop in list_iter:
                 name = 'weights/ssd300_AL_' + cfg['name'] + '_id_' + str(args.id) + '_num_labels_' + str(len(labeled_set)) + '_' + loop + '.pth'
