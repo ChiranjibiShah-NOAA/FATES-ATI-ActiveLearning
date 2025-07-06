@@ -1,5 +1,8 @@
-# Updated for returning list of indices
-# Adapted from https://github.com/pytorch/pytorch
+'''
+This work is adapted from [AL-MDN](https://github.com/NVlabs/AL-MDN), and [SSD](https://github.com/lufficc/SSD/tree/master).
+Please, check the README file for proper citation details. 
+
+'''
 
 
 from torch.utils.data.sampler import Sampler

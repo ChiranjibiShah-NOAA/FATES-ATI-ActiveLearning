@@ -1,3 +1,9 @@
+'''
+This work is adapted from [AL-MDN](https://github.com/NVlabs/AL-MDN), and [SSD](https://github.com/lufficc/SSD/tree/master).
+Please, check the README file for proper citation details. 
+
+'''
+
 from __future__ import print_function
 import torch
 import torch.nn as nn

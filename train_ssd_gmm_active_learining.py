@@ -1,10 +1,8 @@
-# Copyright (c) 2021, NVIDIA CORPORATION. All rights reserved.
-#
-# NVIDIA CORPORATION and its licensors retain all intellectual property
-# and proprietary rights in and to this software, related documentation
-# and any modifications thereto. Any use, reproduction, disclosure or
-# distribution of this software and related documentation without an express
-# license agreement from NVIDIA CORPORATION is strictly prohibited.
+'''
+This work is adapted from [AL-MDN](https://github.com/NVlabs/AL-MDN), and [SSD](https://github.com/lufficc/SSD/tree/master).
+Please, check the README file for proper citation details. 
+
+'''
 
 
 from data import *
@@ -305,7 +303,7 @@ def main():
     for i in range(cfg['num_cycles']):
         if cfg['name'] == 'VOC':
             # select the best weight
-            list_iter = ['9000', '10000']
+            list_iter = ['4000', '5000']
             list_weights = []
             for loop in list_iter:
                 name = 'weights/ssd300_AL_' + cfg['name'] + '_id_' + str(args.id) + '_num_labels_' + str(len(labeled_set)) + '_' + loop + '.pth'

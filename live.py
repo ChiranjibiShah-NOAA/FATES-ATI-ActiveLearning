@@ -1,5 +1,8 @@
-# Updated for running Gaussian Mixture Model
-# Adapted from https://github.com/amdegroot/ssd.pytorch
+'''
+This work is adapted from [AL-MDN](https://github.com/NVlabs/AL-MDN), and [SSD](https://github.com/lufficc/SSD/tree/master).
+Please, check the README file for proper citation details. 
+
+'''
 
 
 import os

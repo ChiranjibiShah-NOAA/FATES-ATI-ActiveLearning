@@ -1,12 +1,3 @@
-# Originated from https://github.com/amdegroot/ssd.pytorch
-"""VOC Dataset Classes
-
-Original author: Francisco Massa
-https://github.com/fmassa/vision/blob/voc_dataset/torchvision/datasets/voc.py
-
-Updated by: Ellis Brown, Max deGroot
-"""
-
 from .config import HOME
 import os.path as osp
 import sys
