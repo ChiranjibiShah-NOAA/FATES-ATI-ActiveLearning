@@ -55,7 +55,7 @@ if args.dataset == 'VOC':
 else:
     testset = COCODetection(args.coco_root, 'train2014', None, VOCAnnotationTransform())
 
-img_id = 0 #2385
+img_id = 50 #2385
 image = testset.pull_image(img_id)
 rgb_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 # View the sampled input image before transform
@@ -89,7 +89,7 @@ detections = y.data
 scale = torch.Tensor(rgb_image.shape[1::-1]).repeat(2)
 for i in range(detections.size(1)):
     j = 0
-    while detections[0,i,j,0] >= 0.5:
+    while detections[0,i,j,0] >= 0.4:
         score = detections[0,i,j,0]
         if args.dataset == 'VOC':
             label_name = VOC_CLASSES[i-1]
