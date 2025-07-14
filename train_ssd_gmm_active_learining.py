@@ -303,7 +303,7 @@ def main():
     for i in range(cfg['num_cycles']):
         if cfg['name'] == 'VOC':
             # select the best weight
-            list_iter = ['4000', '5000']
+            list_iter = ['3000', '3500']
             list_weights = []
             for loop in list_iter:
                 name = 'weights/ssd300_AL_' + cfg['name'] + '_id_' + str(args.id) + '_num_labels_' + str(len(labeled_set)) + '_' + loop + '.pth'
