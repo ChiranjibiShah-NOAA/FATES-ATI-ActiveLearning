@@ -15,8 +15,15 @@ The dataset should be in the Pascal VOC dataset format. The fish dataset compris
 VOC_ROOT
 |__ VOC2007
     |_ JPEGImages
+      |_ xxx.jpg
     |_ Annotations
+      |_ xxx.xml
     |_ ImageSets
+       |_ Main
+          |_ train.txt
+          |_ val.txt
+          |_ trainval.txt
+          |_ test.txt
 
 ```
 
