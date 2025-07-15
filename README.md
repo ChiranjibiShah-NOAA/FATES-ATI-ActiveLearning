@@ -1,11 +1,31 @@
   
 
-Requirements
+Active Learning Based Fish Species Identification
 ----------------------
+
+### Requirements
 For setup and data preparation, please refer to the README in [SSD pytorch](https://github.com/amdegroot/ssd.pytorch).
 
 Code was tested in virtual environment with `Python 3+` and `Pytorch 1.1`.
 
+
+Sample installation Steps: 
+```
+conda create --name alenv python=3.8
+```
+```
+conda activate alenv
+```
+```
+conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 -c pytorch
+```
+```
+pip install pycocotools
+```
+```
+pip install opencv-python
+```
+This installation was tested in Nvidia A100 and Nvidia RTX(TM) 4090. 
 
 ### Setting Up Datasets
 
