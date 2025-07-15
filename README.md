@@ -24,7 +24,6 @@ VOC_ROOT
           |_ val.txt
           |_ trainval.txt
           |_ test.txt
-
 ```
 
 
@@ -39,8 +38,8 @@ Training
 - Please refer to `data/config.py` for configuration.
 
 - Run the training code:
-```
 
+```
 # Active learning
 CUDA_VISIBLE_DEVICES=<GPU_ID> python train_ssd_gmm_active_learining.py
 ```
@@ -52,7 +51,6 @@ Evaluation
 ```
 # Evaluation on PASCAL VOC
 python eval_voc.py --trained_model <trained weight path>
-
 ```
 
 
